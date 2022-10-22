@@ -1,5 +1,7 @@
 body {
-    margin: 10;
-    background: rgb(167, 64, 81);
+    margin: 20px;
+    background: rgb(134, 48, 62);
     text-align: left;
 }
+.imgbox {margin: 20px;}
+img {width: 200px; height: 200px;}
